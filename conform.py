@@ -1,1 +1,1 @@
-print("Test")
+"Junior Dev: YİĞİT"
